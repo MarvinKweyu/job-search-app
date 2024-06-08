@@ -23,7 +23,7 @@ const JobListings = () => {
         </div>
       </div>
     </section>
-  )
+  );
 };
 
 export default JobListings
